@@ -20,5 +20,7 @@
 
 I am a java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I work as a programmer technician and contribute to the backend for creating desktop applications.
-- :seedlings: I study writing technical content.
+
+- :seedling: I study writing technical content.
+
 - :zap: In my free time, I solve problems in javaRash and read technical articles.
