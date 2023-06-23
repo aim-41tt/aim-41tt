@@ -39,6 +39,4 @@ I am a java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </div>
 
 
-<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aim-41tt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
