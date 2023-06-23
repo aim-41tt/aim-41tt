@@ -12,14 +12,14 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 
 ### About Me :
 
 I am a java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I work as a programmer technician and contribute to the backend for creating desktop applications.
+- :telescope: I work as a programming teacher and contribute to teaching students how to develop desktop and server applications.
 
 - :seedling: I study writing technical content.
 
