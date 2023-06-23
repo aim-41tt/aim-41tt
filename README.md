@@ -21,7 +21,7 @@
 I am a java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I work as a teacher by programming and contribute to teaching students how to develop desktop and server applications.
 
-- :seedling: I study writing technical content.
+- :seedling: I'm learning to write bots for discord.
 
 - :zap: In my free time, I solve problems in javaRash and read technical articles.
 
