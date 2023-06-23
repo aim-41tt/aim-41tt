@@ -7,7 +7,6 @@
 </div>
 
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -34,9 +33,8 @@ I am a java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="70" height="70"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Git" **alt="Git"  width="70" height="70"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="HTML5" alt="HTML" width="70" height="70"/>
- 
- 
 </div>
 
 
+### :fire: My Stats :
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aim-41tt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
