@@ -21,7 +21,7 @@ I am a java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I solve problems in javaRash and read technical articles.
 
-- :programmer: contact for communication: <a href="https://t.me/aim_41tt41" target="_blank">
+- :programmer: contact for communication: <a href="https://t.me/aim_41tt" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> 
 
