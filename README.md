@@ -39,11 +39,7 @@ I am a java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="90" height="90"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="90" height="90"/>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="90" height="90"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate ORM" alt="Hibernate ORM" width="90" height="90"/>
 </div>
 
 
