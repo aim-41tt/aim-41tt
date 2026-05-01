@@ -2,7 +2,7 @@
   <img src="./png/header-banner.png" width="100%"/>
   
   <h1>
-    <code>System.out.println("Hello, World!");</code>
+    <code>System.out.println("Welcome");</code>
   </h1>
   
   <p><strong>Java • Spring • AI • Education</strong></p>
